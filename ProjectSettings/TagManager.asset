@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - flyer
+  - ped
+  - Scoop
+  - Sugar
+  - cup
+  - milk
+  - spoon
+  - shaker
+  - stain
+  - customer
+  - PickUp
+  - fa
+  - bed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PickUp
+  - Water
+  - UI
+  - holdLayer
+  - staic
+  - interactable
+  - wall
+  - bb
+  - ice
+  - PLAYER
+  - flat
+  - box
+  - boxTrigger
+  - mainBB
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
